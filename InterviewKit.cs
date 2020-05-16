@@ -4,9 +4,14 @@ namespace InterviewKit_Cs
 {
     class InterviewKit
     {
-        public static void Run()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");
+            Console.WriteLine("Interview Preparation Kit!");
+            /*Enter new Tester below*/
+            /*E.g: new InterviewKit().Run()*/
+            TwoStrings.Run(args);
+            /*------------------------------*/
+            Console.ReadLine();
         }
     }
 }
