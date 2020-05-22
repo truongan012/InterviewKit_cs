@@ -9,7 +9,7 @@ namespace InterviewKit_Cs
             Console.WriteLine("Interview Preparation Kit!");
             /*Enter new Tester below*/
             /*E.g: new InterviewKit().Run()*/
-            TwoStrings.Run(args);
+            CountTriplets.Run(args);
             /*------------------------------*/
             Console.ReadLine();
         }
